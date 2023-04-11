@@ -41,23 +41,23 @@ let lastName = "Baggins";
 console.log("EXERCISE 3:\n==========\n");
 
 let val = 5;
-let str = "5";
-let str2 = "five";
+let str3 = "5";
+let str4 = "five";
 let isPresent = false;
 
 
 
 
 
-console.log ("val"=="str");   true
-console.log ("val"==="str");   false
-console.log(!isPresent);       true
-console.log("eleven"== "str"&&"val">="str");  false 
-console.log(!isPresent || isPresent);    true 
-console.log(0 == false);  true
-console.log (0 === false);  false
-console.log (0 != false);   false
-console.log(0 !== false);  true 
+console.log ("val"=="str");   //true
+console.log ("val"==="str");   //false
+console.log(!isPresent);       //true
+console.log("eleven"== "str"&&"val">="str");  //false 
+console.log(!isPresent || isPresent);    //true 
+console.log(0 == false);  //true
+console.log (0 === false);  //false
+console.log (0 != false);   //false
+console.log(0 !== false);  //true 
 
 
 
