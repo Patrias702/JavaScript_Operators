@@ -35,6 +35,14 @@ let isPresent = true;
 let firstName = "Frodo";
 let lastName = "Baggins";
 
+console.log("num + str")  //1111
+console.log("num + str2")  //11eleven
+console.log("num + isPresent") // 12
+console.log("firstName + num") // Frodo11
+console.log("iPresent + str")  // true11
+console.log("firstName + lastName")  //FrodoBaggins
+
+
 
 
 // Exercise 3
@@ -43,7 +51,7 @@ console.log("EXERCISE 3:\n==========\n");
 let val = 5;
 let str3 = "5";
 let str4 = "five";
-let isPresent = false;
+let isAwake = false;
 
 
 
