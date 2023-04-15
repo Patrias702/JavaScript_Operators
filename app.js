@@ -14,7 +14,7 @@ console.log("EXERCISE 1:\n==========\n");
  let remainder = a % b;
 
  console.log(20);
- comnsole.log(4);
+ console.log(4);
  console.log(a + b);
  console.log(a - b);
  console.log (a * b);
